@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am Jainam Shah, a software engineering student at Concordia University, Montreal.
-Passionate about coding and developing web applications using technologies like React, JavaScript, TypeScript, Java and Python.
+Passionate about coding and developing web applications using technologies like Python, JavaScript, TypeScript and Java.
 
 <!--
 **jainammshah12/jainammshah12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
